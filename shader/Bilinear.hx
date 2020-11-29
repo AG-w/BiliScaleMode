@@ -1,4 +1,4 @@
-package drone.shader;
+package shader;
 
 import flixel.system.FlxAssets.FlxShader;
 import openfl.display.ShaderParameter;
