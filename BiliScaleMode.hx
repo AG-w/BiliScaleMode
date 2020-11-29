@@ -1,7 +1,7 @@
 package;
 
-import drone.shader.Bilinear;
-import drone.shader.Sharpen;
+import shader.Bilinear;
+import shader.Sharpen;
 import flixel.FlxG;
 import flixel.system.scaleModes.BaseScaleMode;
 import openfl.filters.ShaderFilter;
