@@ -2,7 +2,7 @@
 
 a Bilinear filter for HaxeFlixel scale mode    
 also added a simple sharpen filter    
-base on an issue 
+base on an issue   
 https://github.com/HaxeFlixel/flixel/issues/1817
 
 Warning: this modifed scale.x and scale.y in BaseScaleMode. maybe you should check if you used these 2 variable to prevent disaster    
